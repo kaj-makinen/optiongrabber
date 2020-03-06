@@ -1,5 +1,5 @@
 {
-  "name": "optionsgrabber",
+  "name": "optiongrabber",
   "version": "1.0.2",
   "description": "",
   "main": "",
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaj-makinen/optionsgrabber.git"
+    "url": "git+https://github.com/kaj-makinen/optiongrabber.git"
   },
   "keywords": [],
   "author": "Kaj Mäkinen <kaj@howtos.tips>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaj-makinen/optionsgrabber/issues"
+    "url": "https://github.com/kaj-makinen/optiongrabber/issues"
   },
-  "homepage": "https://github.com/kaj-makinen/optionsgrabber#readme",
+  "homepage": "https://github.com/kaj-makinen/optiongrabber#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@kaj-makinen"
-  }
+  },
+  "dependencies": {}
 }
