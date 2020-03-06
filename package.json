@@ -1,5 +1,5 @@
 {
-  "name": "@kaj-makinen/githuboptionsgrabber",
+  "name": "@kaj-makinen/ptionsgrabber",
   "version": "1.0.0",
   "description": "Package for testing og node console input option parameters",
   "main": "optiongrabber.js",
