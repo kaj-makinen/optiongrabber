@@ -6,9 +6,12 @@
 // Optiongrabber.js. Enables multiple words in options, 
 // ie. username and passwords can have spaces
 ////////////////////////////////////////////////////////////////////////////////
-
 const path = require('path');
 const grabberfunc = require(path.join(__dirname, 'functions', 'functions.js'));
+
+const mySandBox = function mySandBox () {
+
+
 
 // Variables from functions.js
 const gcu = grabberfunc.commandoptions.useroption;
@@ -84,3 +87,10 @@ if(indexofpassword !== -1 && indexofusername === -1) {
 
 //all ok !
 console.log(`The user option = ${username} given, with the password option = ${password}.`);
+};
+
+
+
+module.exports = {
+    mySandBox: mySandBox,
+};
