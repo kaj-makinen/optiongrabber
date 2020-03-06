@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kmakinen/optionsgrabber.git"
+    "url": "git+https://github.com/kaj-makinen/optionsgrabber.git"
   },
   "keywords": [],
   "author": "Kaj Mäkinen <kaj@howtos.tips>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kmakinen/optionsgrabber/issues"
+    "url": "https://github.com/kaj-makinen/optionsgrabber/issues"
   },
-  "homepage": "https://github.com/kmakinen/optionsgrabber#readme",
+  "homepage": "https://github.com/kaj-makinen/optionsgrabber#readme",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
 }
