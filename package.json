@@ -1,5 +1,5 @@
 {
-  "name": "githuboptionsgrabber",
+  "name": "@kaj-makinen/optionsgrabber",
   "version": "1.0.0",
   "description": "",
   "main": "optiongrabber.js",
@@ -17,7 +17,5 @@
     "url": "https://github.com/kmakinen/optionsgrabber/issues"
   },
   "homepage": "https://github.com/kmakinen/optionsgrabber#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@kaj-makinen"
-  }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
 }
