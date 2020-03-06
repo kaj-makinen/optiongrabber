@@ -1,0 +1,23 @@
+{
+  "name": "githuboptionsgrabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optiongrabber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmakinen/optionsgrabber.git"
+  },
+  "keywords": [],
+  "author": "Kaj Mäkinen <kaj@howtos.tips>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmakinen/optionsgrabber/issues"
+  },
+  "homepage": "https://github.com/kmakinen/optionsgrabber#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@kaj-makinen"
+  }
+}
