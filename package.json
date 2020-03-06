@@ -19,5 +19,7 @@
     "url": "https://github.com/kaj-makinen/optionsgrabber/issues"
   },
   "homepage": "https://github.com/kaj-makinen/optionsgrabber#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
